@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Madhav-Paudel
-- 👀 I’m interested in ML and AI
-- 🌱 I’m currently learning ( python,c++,web basic)
-- 📫 reach me through linkedin,facebook,instagram
+Hello, I’m Madhav Paudel.
+
+I am presently pursuing a BSc in Computer Science and Information Technology. 
+My academic journey is fueled by a dedicated interest in the realms of Machine Learning and Artificial Intelligence.
 
 
 <!---
