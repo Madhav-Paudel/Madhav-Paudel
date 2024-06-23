@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Madhav-Paudel
 - 👀 I’m interested in ML and AI
 - 🌱 I’m currently learning ( python,c++,web basic)
-- 📫 How to reach me through linkedin,facebook,instagram
+- 📫 reach me through linkedin,facebook,instagram
 
 
 <!---
