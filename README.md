@@ -47,6 +47,8 @@
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
   <img src="https://img.shields.io/badge/GitHub%20Pro-%23563D7C.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pro" style="margin-bottom: 5px;" />
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-%23000000.svg?style=for-the-badge&logo=davinci-resolve&logoColor=white" alt="DaVinci Resolve" style="margin-bottom: 5px;" />
+
 </p>
 
 ---
